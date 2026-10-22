@@ -1,0 +1,7 @@
+supplier,product,available_stock,lead_time_days,cost_per_unit
+Supplier A,Cooking Oil,0,7,120
+Supplier B,Cooking Oil,500,3,130
+Supplier C,Cooking Oil,300,5,115
+Supplier A,Wheat,0,6,40
+Supplier B,Wheat,400,2,45
+Supplier C,Wheat,250,4,38

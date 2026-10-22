@@ -1,0 +1,6 @@
+product,stock,min_stock,daily_demand,lead_time_days
+Rice,500,200,30,4
+Wheat,80,150,20,5
+Cooking Oil,30,100,15,7
+Sugar,250,100,10,3
+Milk Powder,60,120,25,4

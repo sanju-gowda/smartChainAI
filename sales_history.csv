@@ -1,0 +1,37 @@
+
+product,day,units_sold
+Rice,1,28
+Rice,2,30
+Rice,3,29
+Rice,4,32
+Rice,5,31
+Rice,6,34
+Rice,7,33
+Wheat,1,18
+Wheat,2,20
+Wheat,3,19
+Wheat,4,21
+Wheat,5,22
+Wheat,6,20
+Wheat,7,23
+Cooking Oil,1,12
+Cooking Oil,2,14
+Cooking Oil,3,13
+Cooking Oil,4,15
+Cooking Oil,5,14
+Cooking Oil,6,16
+Cooking Oil,7,17
+Sugar,1,10
+Sugar,2,11
+Sugar,3,10
+Sugar,4,12
+Sugar,5,11
+Sugar,6,12
+Sugar,7,13
+Milk Powder,1,22
+Milk Powder,2,24
+Milk Powder,3,23
+Milk Powder,4,25
+Milk Powder,5,24
+Milk Powder,6,26
+Milk Powder,7,27
